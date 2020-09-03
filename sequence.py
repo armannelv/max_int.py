@@ -6,6 +6,7 @@ round_3 = 3
 final = 0
 print(round_1)
 print(round_2)
+print(round_3)
 for i in range(1, n - 2):
     final = round_1 + round_2 + round_3
     round_1 = round_2
